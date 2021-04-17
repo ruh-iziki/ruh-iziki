@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ruh-iziki
-- 👀 I’m interested in competitive programming(Specialist on Codeforces)
-- 🌱 I’m currently learning ReactJs
+- 👀 I’m deeply interested in competitive programming(Specialist on Codeforces present rating-1471)
+- ❤ Data Structures and Algo ❤
+- 🌱 I’m currently learning WebD
 
 <!---
 ruh-iziki/ruh-iziki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
